@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @justarzun
-- 👀 I’m interested in FULL STACK WEB DEVELOPER
-- 🌱 I’m currently learning node.js
+- 🧑‍🍳Software Developer
 
 
 <!---
